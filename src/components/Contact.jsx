@@ -39,13 +39,13 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <p>20/2, Galle Fort, Galle</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>071 377 5809</p>
+		 <p>thinukavinjayauni@gmail.com</p>
 		</div>
 		
 		<div>
@@ -73,6 +73,10 @@ const Contact = () => {
 			 </a>
 			))}
 		 </div>
+		</div>
+
+		<div>
+			<h3>Designed & Developed By Thinuka Vinjaya</h3>
 		</div>
 	 </div>
 	</footer>
